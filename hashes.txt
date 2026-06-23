@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amor de fuego
+
+This log tracks the cryptographic history and versioning for the song **Amor de fuego** (amor-de-fuego).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T13:02:19.454439 | `v1` | `b31508816e30cc3ec6914b0897fc0afa622d871ae464de5623bb080b8a3cc59d` | `6fcf215fde97981f89e4a122c7624b54a3cc7eb5d8abe08c6373cf880f17ebfd` | `2026-06-23_amor-de-fuego-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

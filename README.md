@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amor-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Amor de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amor-de-fuego/) |
+| **Get License** | [Commercial Licensing for Amor de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amor-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b31508816e30cc3ec6914b0897fc0afa622d871ae464de5623bb080b8a3cc59d` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
