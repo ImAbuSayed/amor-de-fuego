@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amor-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Amor de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amor-de-fuego/) |
+| **Get License** | [Request Licensing for Amor de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amor-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche la luna me dice que tú eres pa' mí,
+> Brillando en la pista, mi reina, tan cerca de aquí,
+> Un fuego violento, un ritmo salvaje que no tiene fin,
+> Ven, baila conmigo, apaga la sed que yo siento por ti.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
